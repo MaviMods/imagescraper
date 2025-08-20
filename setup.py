@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="imagescraper-mavi",
-    version="0.1.0",
+    version="0.1.1",
     author="MaviMods",
     author_email="your-email@example.com",
     description="A simple Python package to scrape images from Google, Bing, and Yahoo",
