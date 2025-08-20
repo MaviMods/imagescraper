@@ -1,2 +1,2 @@
 [console_scripts]
-imagescraper = imagescraper.scraper:main
+imagescraper = imagescraper-mavi.scraper:main
