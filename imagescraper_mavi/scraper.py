@@ -102,7 +102,7 @@ def main():
     try:
         query = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else input("🔍 Enter keyword: ").strip()
         folder_name = query.replace(" ", "_")
-        base_root = os.path.expanduser("~/imagescraper_downloads")
+        base_root = "/sdcard/Imagescraper"
         final_path = os.path.join(base_root, folder_name)
 
         if not os.path.exists(final_path):
