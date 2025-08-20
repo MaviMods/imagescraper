@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: imagescraper-mavi
-Version: 0.1.2
+Version: 0.1.3
 Summary: A simple Python package to scrape images from Google, Bing, and Yahoo
 Home-page: https://github.com/MaviMods/imagescraper
 Author: MaviMods
