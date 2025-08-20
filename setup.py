@@ -16,7 +16,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "imagescraper=imagescraper-mavi.scraper:main",
+            "imagescraper=imagescraper_mavi.scraper:main",
         ],
     },
     classifiers=[
